@@ -1,0 +1,36 @@
+body {
+	background: lavender;
+}
+
+.button_style {
+  margin-left: 10px !important;
+  margin-right: 10px;
+}
+
+.centerTable {
+  margin: 0px auto;
+}
+
+h2 {
+    color: #3f51b5;
+}
+.container {
+	display: grid;
+	align-items: stretch;
+	justify-content: center;
+	min-height: 100vh;
+	width: 205vh;
+	background: white;
+	background-repeat: no-repeat ;
+	background-size: 100%;
+}
+
+.screen {		
+	background: white;		
+	position: relative;	
+	height: 440px;
+	width: 440px;	
+	outline-style:solid;
+	outline-width: thin;
+	border-radius: 30px;
+}
